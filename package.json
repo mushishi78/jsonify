@@ -1,0 +1,16 @@
+{
+  "name": "jsonify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "Max Whitloe",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "remeda": "^1.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
